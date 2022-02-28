@@ -1,4 +1,8 @@
 alumno1 alumno1@mail.com
 alumno3 alumno3@mail.com
 alumno4 alumno4@mail.com
+<<<<<<< HEAD
 alumno6 alumno6@mail.com
+=======
+alumno5 alumno5@mail.com
+>>>>>>> fe355e3b5c526a4d84cf5a742960c964535ad33e
